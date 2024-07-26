@@ -1,1 +1,0 @@
-# Ajax-and-Filters-Proper-Way
